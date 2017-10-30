@@ -1,4 +1,4 @@
-# Introduction to R - Assignment
+#Introduction to R - Assignment
 #Exercise 1: Calculate square root of 729
 Square_root=sqrt(729); print(Square_root)
 
